@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633044727559",
+    "firebase_url": "https://ebazaar-17dc0.firebaseio.com",
+    "project_id": "ebazaar-17dc0",
+    "storage_bucket": "ebazaar-17dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633044727559:android:efb742ed40a81ed243f7a2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633044727559-49029dfgnr3go6dn1r5esbsvlulkq3f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "bf807b1536876009498ed8dc9876c5bc9e0450c9"
+          }
+        },
+        {
+          "client_id": "633044727559-onpotmgic8uegiihnumcnem6du6n2nl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYM5PGGNdFpw2aJbjoj0NN9kd5-KRE4qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633044727559-onpotmgic8uegiihnumcnem6du6n2nl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
